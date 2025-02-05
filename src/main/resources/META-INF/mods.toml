@@ -34,14 +34,14 @@ side="BOTH"
 modId="adchimneys"
 mandatory=true
 versionRange="[10.1.15.0,)"
-ordering="NONE"
+ordering="AFTER"
 side="BOTH"
 
 [[dependencies.bcm]]
 modId="cgm"
 mandatory=true
 versionRange="[1.4.18,)"
-ordering="NONE"
+ordering="AFTER"
 side="BOTH"
 
 [[dependencies.bcm]]
@@ -55,12 +55,12 @@ side="CLIENT"
 modId="forgeendertech"
 mandatory=true
 versionRange="[11.1.5.0,)"
-ordering="NONE"
+ordering="AFTER"
 side="BOTH"
 
 [[dependencies.bcm]]
 modId="framework"
 mandatory=true
 versionRange="[0.7.12,)"
-ordering="NONE"
+ordering="AFTER"
 side="BOTH"
