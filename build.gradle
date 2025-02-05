@@ -73,9 +73,9 @@ dependencies {
         jarJar.ranged(it, "[5610926,)")
         jarJar.pin(it, "5610926")
     }
-    jarJar("curse.maven:configured-457570:5180902") {
-        jarJar.ranged(it, "[5180902,)")
-        jarJar.pin(it, "5180902")
+    jarJar("curse.maven:configured-457570:5180900") {
+        jarJar.ranged(it, "[5180900,)")
+        jarJar.pin(it, "5180900")
     }
 }
 tasks.named('processResources', ProcessResources).configure {
